@@ -1,1 +1,3 @@
-[go to other page](/page2)
+# Hey! let's go
+
+[to other page](/page2)
