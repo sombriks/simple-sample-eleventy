@@ -65,7 +65,23 @@ npm run dev
 
 ## 05-includes
 
-you can [include](https://www.11ty.dev/docs/config/#directory-for-includes) some
-fragments into your page
+you can [include](https://www.11ty.dev/docs/config/#directory-for-includes)
+[some](https://mozilla.github.io/nunjucks/templating.html#include) fragments 
+into your page.
 
+```bash
+cd 05-includes
+npm i
+npm run dev
+```
 
+## 06-layouts
+
+For even better fancy results, you can use layouts. They're like includes 
+[but better](https://www.11ty.dev/docs/layout-chaining/).
+
+```bash
+cd 06-layouts
+npm i
+npm run dev
+```
