@@ -1,0 +1,306 @@
+[
+  {
+    "link": "https://google.com",
+    "label": "The best way to learn something"
+  },
+  {
+    "link": "https://yahoo.com",
+    "label": "When you need to know if dns is really working"
+  },
+  {
+    "link": "https://www.youtube.com/results?search_query=vaporware",
+    "label": "White noise to keep focus on working"
+  },
+  {
+    "link": "https://www.w3schools.com/",
+    "label": "Docs everyone denies to use and enjoy to deny it"
+  },
+  {
+    "link": "https://developer.mozilla.org",
+    "label": "The true and correct docs for the web"
+  },
+  {
+    "link": "https://vuejs.org/",
+    "label": "The good"
+  },
+  {
+    "link": "https://reactjs.org/",
+    "label": "The bad"
+  },
+  {
+    "link": "https://angular.io/",
+    "label": "The ugly"
+  },
+  {
+    "link": "http://www.nomnoml.com/",
+    "label": "nomnoml! I always forgot this address but it's so rad!"
+  },
+  {
+    "link": "https://docs.oracle.com/javase/tutorial/",
+    "label": "Origins"
+  },
+  {
+    "link": "https://github.com",
+    "label": "How to save the world"
+  },
+  {
+    "link": "https://css-tricks.com/",
+    "label": "All you need to know about css and more"
+  },
+  {
+    "link": "https://www.wikipedia.org/",
+    "label": "In need of a printed version"
+  },
+  {
+    "link": "https://www.apple.com/",
+    "label": "Evil"
+  },
+  {
+    "link": "https://www.base64encode.org/",
+    "label": "How to speak clearly"
+  },
+  {
+    "link": "https://simplycalc.com/base16-encode.php",
+    "label": "More clearly"
+  },
+  {
+    "link": "https://www.youtube.com/results?search_query=make+good+art",
+    "label": "make good art"
+  },
+  {
+    "link": "https://haxiomic.github.io/GPU-Fluid-Experiments/html5/?q=Low",
+    "label": "Quite relaxing"
+  },
+  {
+    "link": "https://www.hackerrank.com",
+    "label": "Cool challenges"
+  },
+  {
+    "link": "https://xkcd.com/1179/",
+    "label": "How to write dates correctly"
+  },
+  {
+    "link": "https://devhints.io/",
+    "label": "best TL;DR; ever"
+  },
+  {
+    "link": "https://trello.com/",
+    "label": "Organize your life a little"
+  },
+  {
+    "link": "https://dexie.org/",
+    "label": "The nicest non-relational database API you'll ever see"
+  },
+  {
+    "link": "https://www.postgresql.org/docs/manuals/",
+    "label": "Database for serious business"
+  },
+  {
+    "link": "https://www.sqlite.org/index.html",
+    "label": "Not ANSI SQL but that's ok"
+  },
+  {
+    "link": "https://www.destroyallsoftware.com/compendium",
+    "label": "Core basics of computer science in a very opinionated way"
+  },
+  {
+    "link": "https://www.timsommer.be/famous-laws-of-software-development/",
+    "label": "Famous laws of software development"
+  },
+  {
+    "link": "http://raganwald.com/2019/02/14/i-love-programming-and-programmers.html",
+    "label": "I like the way compilers work"
+  },
+  {
+    "link": "https://yuml.me/diagram/scruffy/class/draw",
+    "label": "yUML does cool uml"
+  },
+  {
+    "link": "https://colorhunt.co",
+    "label": "Nice and shiny colors"
+  },
+  {
+    "link": "https://www.zeitverschiebung.net",
+    "label": "Very very important clock thing"
+  },
+  {
+    "link": "https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/",
+    "label": "Learn how to use tmux"
+  },
+  {
+    "link": "https://dev.to/blacksonic/the-vue-3-upgrade-guide-4dc4",
+    "label": "The upgrade from Vue2 to Vue3, simply explained"
+  },
+  {
+    "link": "https://www.jamisbuck.org/mazes/",
+    "label": "i like mazes"
+  },
+  {
+    "link": "https://firebirdsql.org/file/documentation/release_notes/html/en/3_0/rnfb30-compat-initsec.html",
+    "label": "remember to initialize the security db with server offline! use root. check permissions."
+  },
+  {
+    "link": "https://vitux.com/how-to-use-gnome-shells-secret-screen-recorder/",
+    "label": "I always forgot how to configure screen recording time on gnome, so..."
+  },
+  {
+    "link": "https://www.mitchellbosecke.com/post/java-proxies-from-dog-to-transactionaldog",
+    "label": "The transactional dog"
+  },
+  {
+    "link": "https://www.ibphoenix.com/resources/documents/how_to/doc_396",
+    "label": "when we need to setup an old db into a new system"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=rfFnUVxrfAw&list=PLczA8pMWxlsFUFEtlc6MuucBX-OmKPKkN",
+    "label": "Soundtrack to listen while coding"
+  },
+  {
+    "link": "https://twitter.com/sombriks/status/1441562084463030272",
+    "label": "It used to be an article, now it's a tweet (I)"
+  },
+  {
+    "link": "https://twitter.com/sombriks/status/1441572448051372038",
+    "label": "It used to be an article, now it's a tweet (II)"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=hKetuR_T8hc",
+    "label": "I have a dream"
+  },
+  {
+    "link": "http://www.hostwaydcs.com/CISCO/AnyConnect/",
+    "label": "If you have that bad luck for vpn"
+  },
+  {
+    "link": "https://serverfault.com/a/337928/48288",
+    "label": "dbeaver always tries socket connection, so force it into tcp"
+  },
+  {
+    "label": "What really solved the annoyance with bluetooth keyboard",
+    "link": "https://twitter.com/sombriks/status/1509637535336644609"
+  },
+  {
+    "label": "Another nice and important color thing",
+    "link": "https://color.adobe.com/pt/create/color-wheel"
+  },
+  {
+    "label": "That day i decided to rant about 'native java'",
+    "link": "https://twitter.com/sombriks/status/1510432070203543554"
+  },
+  {
+    "label": "Hope Sandoval & The Warm Inventions",
+    "link": "https://www.youtube.com/watch?v=3qqiQtyg0tQ"
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=CVpUuw9XSjY",
+    "label": "React Redux the old style"
+  },
+  {
+    "link": "https://www.reddit.com/r/gnome/comments/ulrbuj/what_are_you_guys_favorite_and_most_useful/i7z4v0h",
+    "label": "My current gnome shell extension setup"
+  },
+  {
+    "label": "Cool css things",
+    "link": "https://twitter.com/Amit_T18/status/1524712527317241862"
+  },
+  {
+    "label": "When you need to fix git branches the hard way",
+    "link": "https://ncona.com/2011/07/how-to-delete-a-commit-in-git-local-and-remote/"
+  },
+  {
+    "label": "When i had to downgrade security to make vpn work",
+    "link": "https://bugzilla.redhat.com/show_bug.cgi?id=1851585#c4"
+  },
+  {
+    "label": "Make chrome share screen properly on wayland",
+    "link": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os"
+  },
+  {
+    "label": "How to properly use CRON",
+    "link": "https://crontab.guru"
+  },
+  {
+    "label": "It used to be an article, now it's a tweet (III)",
+    "link": "https://twitter.com/sombriks/status/1550903875649011715"
+  },
+  {
+    "label": "A must-have for frontend. A color picker",
+    "link": "https://chrome.google.com/webstore/detail/color-picker-for-chrome/clldacgmdnnanihiibdgemajcfkmfhia"
+  },
+  {
+    "label": "But a few things remais with the size of a tweet",
+    "link": "https://twitter.com/sombriks/status/1560685269753397249"
+  },
+  {
+    "label": "Friendly reminder",
+    "link": "https://twitter.com/sombriks/status/1561158355149783041"
+  },
+  {
+    "label": "So, mariadb on mac (using brew) can be tricky",
+    "link": "https://gist.github.com/nickcernis/1c2a1c98a0660d4798d55b1999d52b4c"
+  },
+  {
+    "link": "https://stackoverflow.com/a/49043924/420096",
+    "label": "Whenever mysql dump refuses to restore, add `SET GLOBAL innodb_strict_mode = 0;` into the script!"
+  },
+  {
+    "label": "Proper way to set java version on mac",
+    "link": "https://twitter.com/sombriks/status/1567239336977899521"
+  },
+  {
+    "label": "Also postgresql from homebrew can be tricky",
+    "link": "https://daily-dev-tips.com/posts/installing-postgresql-on-a-mac-with-homebrew"
+  },
+  {
+    "label": "When you need maven running JUnit 5 to work under maven",
+    "link": "https://github.com/sombriks/simple-java-run-cmd/blob/main/pom.xml"
+  },
+  {
+    "label": "Ok that's pretty cool about git and ssh",
+    "link": "https://www.baeldung.com/linux/ssh-private-key-git-command"
+  },
+  {
+    "label": "Take care of your keys",
+    "link": "https://unix.stackexchange.com/a/399490/143289"
+  },
+  {
+    "label": "In case you need to learn firestore",
+    "link": "https://www.youtube.com/playlist?list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ"
+  },
+  {
+    "label": "yes knex still amazes me",
+    "link": "https://github.com/knex/knex/issues/3850"
+  },
+  {
+    "label": "never fall in the trap of download xcode via app store again",
+    "link": "https://developer.apple.com/download/all/?q=Xcode"
+  },
+  {
+    "label": "resize font on intellij",
+    "link": "https://www.jetbrains.com/go/guide/tips/change-font-size-from-keyboard/"
+  },
+  {
+    "label": "cool drawing tool",
+    "link": "https://excalidraw.com/"
+  },
+  {
+    "label": "best static site generator ever",
+    "link": "https://www.11ty.dev/"
+  },
+  {
+    "label": "cool highlight thing",
+    "link": "https://prismjs.com/"
+  },
+  {
+    "label": "GO has funny strings",
+    "link": "https://github.com/golang/go/issues/22127#issuecomment-334288975"
+  },
+  {
+    "label": "Cast things in GO",
+    "link": "https://go.dev/ref/spec#Conversions"
+  },
+  {
+    "label": "Template language for eleventy things",
+    "link": "https://mozilla.github.io/nunjucks/"
+  }
+]

@@ -1,13 +1,8 @@
 {
-  "name": "01-various-source-languages",
+  "name": "05-includes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "private": "true",
-  "dependencies": {},
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.0"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
