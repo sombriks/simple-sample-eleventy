@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>My fancier template</title>
+    <style>
+      :root {
+        background-color: cornflowerblue;
+      }
+      .container {
+        display: flex;
+      }
+      .content {
+        flex-grow: 1;
+      }
+      .side {
+        display: flex;
+        flex-direction: column;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        {{content | safe}}
+      </div>
+      <div class="side">
+        {% for link in links %}
+        <a href="{{lin.link}}" target="_blank">{{link.label}}</a>
+        {% endfor %}
+      </div>
+    </div>
+    <hr/>
+    <i>since {{date}}</i>
+  </body>
+</html>

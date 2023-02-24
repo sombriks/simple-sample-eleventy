@@ -85,3 +85,17 @@ cd 06-layouts
 npm i
 npm run dev
 ```
+
+## 07-custom directories
+
+If you don't like the default layout structure used by eleventy you can change
+it to quite anything you want. Either use [command line parameters](https://www.11ty.dev/docs/usage/)
+or create the [.eleventy.js config file](https://www.11ty.dev/docs/config/#configuration-options).
+
+Note that `_include` and `_data` directories are calculate from input directory.
+
+```bash
+cd 06-layouts
+npm i
+npm run dev
+```
