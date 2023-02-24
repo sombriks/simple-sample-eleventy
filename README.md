@@ -95,7 +95,7 @@ or create the [.eleventy.js config file](https://www.11ty.dev/docs/config/#confi
 Note that `_include` and `_data` directories are calculate from input directory.
 
 ```bash
-cd 06-layouts
+cd 07-custom-directories
 npm i
 npm run dev
 ```
