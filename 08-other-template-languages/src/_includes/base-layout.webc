@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title @raw="title">
+      it will be replaced
+    </title>
+    <meta name="description" :content="description">
+    <meta name="keywords" :content="tags.join(',')">
+  </head>
+  <body>
+    <div @raw="content"></div>
+    <hr/>
+    <i>since <span @html="date"></span></i>
+  </body>
+</html>

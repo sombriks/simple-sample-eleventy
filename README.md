@@ -99,3 +99,21 @@ cd 07-custom-directories
 npm i
 npm run dev
 ```
+
+## 08-other-template-languages
+
+There are plenty of other template languages to choose, not only markdown, html
+and numjucks
+
+There is [webc](https://11ty.rocks/posts/introduction-webc/), 
+[vue](https://henry.codes/writing/how-to-use-vue-to-template-your-eleventy-projects/)
+and others.
+
+Jut add the proper plugin on `.eleventy.js` config file, 
+[see examples](https://www.11ty.dev/docs/languages/webc/#installation).
+
+```bash
+cd 08-other-template-languages
+npm i
+npm run dev
+```
