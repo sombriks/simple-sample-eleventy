@@ -16,3 +16,4 @@ with my very cool content
 some header (meta tags) content rendered too!
 
 see [extra page](/extra)
+see [webc page](/page3)

@@ -1,0 +1,3 @@
+
+<hr/>
+<i>since <span @html="date || 'today'"></span></i>

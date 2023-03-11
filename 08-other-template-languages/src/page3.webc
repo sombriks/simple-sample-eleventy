@@ -1,0 +1,13 @@
+---
+layout: base-layout.webc
+date: 2023-03-11
+tags:
+- webc
+- is
+- cool
+title: Webc for pages
+description: webc can be nice for pages, not just templates
+---
+<h1>Hello from the webc page</h1>
+<p>you could use webc for everything</p>
+<a :href="url('/')">back</a>

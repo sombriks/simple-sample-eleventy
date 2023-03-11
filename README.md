@@ -117,3 +117,25 @@ cd 08-other-template-languages
 npm i
 npm run dev
 ```
+
+## 09-webc-import-components
+
+Using webc components as pages or layouts is pretty straightforward. 
+
+In order to use them as reusable components, you need to do two or three things:
+
+- make eleventy ignore them, so they don't render as full pages by mistake.
+- [import them](https://www.11ty.dev/docs/languages/webc/#webcimport) whenever
+  you need them.
+- It is also possible to configure a folder to be ignorer and
+  [automatic import](https://www.11ty.dev/docs/languages/webc/#defining-components)
+  everything inside it.
+
+Finally, you can mix components with any other template language freely*, just
+use [the render plugin](https://www.11ty.dev/docs/plugins/render/).
+
+```bash
+cd 09-webc-import-components
+npm i
+npm run dev
+```

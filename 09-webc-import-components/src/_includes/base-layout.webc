@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title @raw="title || 'My eleventy page'">
+      it will be replaced
+    </title>
+
+    <meta name="description" :content="description || 'you might not believe this!'">
+    <meta name="keywords" :content="tags && tags.join(',') || 'words, words'">
+
+    <!-- you must have this so your bundled content will be rendered -->
+    <style webc:keep @raw="getCss(page.url)"></style>
+    <script webc:keep @raw="getJs(page.url)"></script>
+  </head>
+  <body>
+    <div @raw="content"></div>
+    <!-- you can import components inside layouts too -->
+    <footer-thing></footer-thing>
+  </body>
+</html>

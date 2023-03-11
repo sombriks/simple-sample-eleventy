@@ -1,0 +1,9 @@
+<p class="big-content" @raw="attr">
+aaa
+</p>
+
+<style>
+    .big-content {
+      font-size:5em;
+    }
+</style>

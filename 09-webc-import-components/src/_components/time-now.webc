@@ -1,0 +1,13 @@
+<span id="now"></span>
+<!-- this script will be bundled -->
+<script webc:scoped>
+    document.addEventListener("DOMContentLoaded", () => {
+        setInterval(() => {
+            document.getElementById("now")
+                .innerHTML = new Date()
+                    .toISOString()
+                    .split("T")[1]
+                    .split(".")[0]
+        }, 500)
+    })
+</script>
