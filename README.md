@@ -127,7 +127,7 @@ In order to use them as reusable components, you need to do two or three things:
 - make eleventy ignore them, so they don't render as full pages by mistake.
 - [import them](https://www.11ty.dev/docs/languages/webc/#webcimport) whenever
   you need them.
-- It is also possible to configure a folder to be ignorer and
+- It is also possible to configure a folder to be ignored and
   [automatic import](https://www.11ty.dev/docs/languages/webc/#defining-components)
   everything inside it.
 
